@@ -16,8 +16,8 @@ function button1Clicked() {
 }
 
 function buttonClicked() {
-    let newText = "Button was clicked";
-
-    let randomNum = document.getElementById()("random-num");
-    buttonDiv.innerHTML = newText;
+    let myRand = Math.random();
+    let buttonDiv = document.getElementById("random_num);
+    buttonDiv.innerHTML = myRand;
 }
+
