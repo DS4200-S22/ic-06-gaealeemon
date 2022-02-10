@@ -14,3 +14,10 @@ function button1Clicked() {
     return myRand;
     console.log(myRand); 
 }
+
+function buttonClicked() {
+    let newText = "Button was clicked";
+
+    let randomNum = document.getElementById()("random-num");
+    buttonDiv.innerHTML = newText;
+}
