@@ -17,7 +17,7 @@ function button1Clicked() {
 
 function buttonClicked() {
     let myRand = Math.random();
-    let buttonDiv = document.getElementById("random_num);
+    let buttonDiv = document.getElementById("random_num");
     buttonDiv.innerHTML = myRand;
 }
 
